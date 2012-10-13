@@ -5,7 +5,7 @@ Purus is a clean and simple html template. It is a perfect template for anyone w
 The design of Purus is originally created by [rigoneri](http://github.com/rigoneri/) in [syte](http://github.com/rigoneri/syte/). However, Purus is HTML and created on top of twitter bootstrap with a simple CSS file ```main.css```. Purus allows people to just download the source and create a simple HTML page or easily use it on tumblr.
 
 ## Purus for tumblr
-You can use Purus as your tumblr theme. For now you need to do it manually (Purus has been submitted to tumblr theme garden!). [Open](http://www.tumblr.com/customize){target:_blank} page to customize tumblr theme, click ```Edit HTML```, copy the source code of ```tumblr.html``` and paste it to left part, where HTML source code appears. Then, ```Update Preview``` and ```Save``` it.
+You can use Purus as your tumblr theme. For now you need to do it manually (Purus has been submitted to tumblr theme garden!). [Open](http://www.tumblr.com/customize) page to customize tumblr theme, click ```Edit HTML```, copy the source code of ```tumblr.html``` and paste it to left part, where HTML source code appears. Then, ```Update Preview``` and ```Save``` it.
 
 ## Coloring
 You can easily customize and use your favorite color. Just edit the in-line style in the header (between ```<head>``` and ```</head>```).
